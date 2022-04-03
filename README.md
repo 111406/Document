@@ -1,5 +1,4 @@
-系統簡介
-====
+# 系統簡介
 
 ---
 
@@ -10,45 +9,44 @@
 
 ---
 
-### 一、前言
+## 一、前言
 
 
-### 二、系統功能簡介
+## 二、系統功能簡介
 
 
 
-### 三、系統使用對象
+## 三、系統使用對象
+
+- 65歲以上高齡人
+- 醫師
 
 
-### 四、系統特色
+## 四、系統特色
 
 
-### 五、系統開發工具
+## 五、系統開發工具
 
-| 開發輔助工具   |                                                |
-| -------------- | ---------------------------------------------- |
-| 編輯器         | IntelliJ IDEA, WebStorm, Visual Studio Code    |
-| 資料庫管理工具 | MySQL Workbench, DataGrip                      |
-| 版本控制工具   | Git                                            |
-| API 測試工具   | Postman                                        |
-| API 文件       | Swagger                                        |
-| 文件撰寫工具   |                                                |
-| 文件製作       | Microsoft Word 2019                            |
-| 簡報製作       | Microsoft PowerPoint 2019                      |
-| UML 工具       | Visual Paradigm for UML 7.2 Enterprise Edition |
-| 介面設計工具   |                                                |
-| 雛形設計       | Adobe XD                                       |
-| 製圖工具       | Adobe Photoshop, Adobe Illustrator             |
-| 專案管理工具   |                                                |
-| 溝通工具       | LINE, Telegram                                 |
-| 版本控管       | GitHub                                         |
-| 進度追蹤       | Trello                                         |
-| 影片軟體       |                                                |
-| 剪輯軟體       | Adobe Premiere Pro                             |
+| 開發輔助工具   |                                           |
+|:-------------- |:----------------------------------------- |
+| 開發環境       | Windows 10, macOS, Centos                 |
+| 程式編輯器     | Visual Studio Code, Xcode, Android Studio |
+| 版本控制       | Github, Google Drive Desktop              |
+| 資料庫管理工具 | MySQL Workbench                           |
+| 雛形設計       | Figma, Adobe Xd                           |
+| 圖樣設計       | Adobe Illustrator, Adobe Photoshop        |
+| UML工具        | Visual Paradigm Online, draw.io           |
+| 文件製作       | Microsoft Word, Microsoft Excel           |
+| 簡報製作       | Microsoft PowerPoint, Canva               |
+| 影片製作       | iMovie,  Adobe Premiere                   |
 
-### 六、系統使用環境
+## 六、系統使用環境
 
+- 手機
+    - iOS 9 以上
+    - Android 4.02 以上
+- 網頁
 
-### 七、結論及未來發展
+## 七、結論及未來發展
 
 
